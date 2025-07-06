@@ -5,4 +5,4 @@ RNN and it's variation can handle sequential data for forecasting purposes, but 
 1. Instead of taking each point to make decision, we group some point into segment. This can reduce iteration thus solving vanishing/exploding gradient problem.
 2. Making each point paralel with positional encoding to preserve sequence information.
 
-For further detail about the architecture and methodology, I suggest to read the paper: https://arxiv.org/pdf/2308.11200v1
+For further detail about the architecture and methodology, I suggest to read the [paper](https://arxiv.org/pdf/2308.11200v1) or my explanation
